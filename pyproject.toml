@@ -1,0 +1,6 @@
+[project]
+name = "csv-sqlite-loader"
+version = "1.0.0"
+description = "Load CSV files into SQLite with simple type inference"
+requires-python = ">=3.10"
+dependencies = []
